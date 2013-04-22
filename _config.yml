@@ -11,8 +11,8 @@ pygments: true
 #
 title : Your Pain Is Self Chosen
 tagline: Site Tagline
-author : Hörmetjan Yiltiz
-  name : Name Lastname
+author :
+  name : Hörmetjan Yiltiz
   email : hyiltiz@gmail.com
   github : hyiltiz
   twitter : username
