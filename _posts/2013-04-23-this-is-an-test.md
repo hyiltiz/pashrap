@@ -1,3 +1,13 @@
+---
+layout: post
+title: "A Test On Markdown Language"
+description: ""
+category: 
+tags: [markdown, test]
+---
+{% include JB/setup %}
+
+
 # A First Level Header
 
 ## A Second Level Header
@@ -198,8 +208,8 @@ with these.
 [2]: http://search.yahoo.com/  "Yahoo Search"
 [3]: http://search.msn.com/    "MSN Search"
 [ny times]: http://www.nytimes.com/
-[id]:  /home/hyiltiz/Pictures/Ara_ararauna_Luc_Viatour.jpg "Title"
-[id0]: /home/hyiltiz/Pictures/Line_integral_of_scalar_field.gif 
+[id]:  ./_media/Ara_ararauna_Luc_Viatour.jpg "Title"
+[id0]: ./_media/Line_integral_of_scalar_field.gif 
         "Good"
 [Google]: http://google.com/
 [Daring Fireball]: http://daringfireball.net/
