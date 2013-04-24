@@ -2,7 +2,7 @@
 layout: post
 title: "A Test On Markdown Language"
 description: ""
-category: 
+category: [software, markdown]
 tags: [markdown, test]
 ---
 {% include JB/setup %}

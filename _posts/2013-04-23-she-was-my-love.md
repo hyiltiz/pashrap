@@ -2,7 +2,7 @@
 layout: post
 title: "She was my love!"
 description: ""
-category: 
+category: [people, niboo]
 tags: [love, Relationship]
 ---
 {% include JB/setup %}
