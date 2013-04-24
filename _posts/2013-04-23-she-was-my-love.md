@@ -24,5 +24,5 @@ lost it.
 ![I was just mirerable][me]
 
 
-[niboo]: /_media/Kissing_the_Sun_light.jpg "Niboo"
-[me]: /_media/Lab.jpg  "Me in te lab"
+[niboo]: /media/Kissing_the_Sun_light.jpg "Niboo"
+[me]: /media/Lab.jpg  "Me in te lab"
