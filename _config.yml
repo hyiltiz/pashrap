@@ -1,2 +1,2 @@
-markdown: rdiscount 
-
+# markdown: rdiscount 
+# permalink: /:day-:month-:year/:title.html
